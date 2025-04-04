@@ -12,8 +12,8 @@
 /bin/
 /pkg/
 /vendor/
-go.sum
-go.mod
+# go.sum
+# go.mod
 
 # Ignore dependency files
 .env
